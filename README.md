@@ -1,3 +1,3 @@
 # data-assimilation-tutorial
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KordianD/data-assimilation-tutorial/master?filepath=Untitled.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FADiglet%2FDataABC.git/master)
